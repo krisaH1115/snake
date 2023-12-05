@@ -4,6 +4,8 @@ from snake import Snake
 from food import Food
 from scoreboard import Scoreboard
 
+//forsvinner denne?
+
 screen = Screen()
 screen.setup(width=600, height=600)
 screen.bgcolor("black")
